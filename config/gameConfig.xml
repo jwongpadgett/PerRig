@@ -1,0 +1,7 @@
+<document>
+<config>
+<!-- in seconds -->
+<runDuration>300</runDuration>
+<numberOfRuns>3</numberOfRuns>
+</config>
+</document>
